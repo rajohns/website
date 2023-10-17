@@ -1,0 +1,12 @@
+body, html {
+  font-family: "Inconsolata", sans-serif;
+}
+
+.bgimage {
+  background-position: center;
+  background-size: cover;
+  background: url("/assets/images/background.png");
+  min-height: 75%;
+}
+
+/*# sourceMappingURL=styles.css.map */
